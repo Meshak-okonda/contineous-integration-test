@@ -11,7 +11,7 @@
   ],
   "extends": [
     "eslint:recommended",
-    "eslint-config-prettier"
+    "eslint-config-prettier" bbbb
   ],
   "rules": {
     "strict": [ "error", "never"]
